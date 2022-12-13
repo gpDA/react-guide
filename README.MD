@@ -1,0 +1,25 @@
+# OVERVIEW
+## the-concept-of-composition
+### TITLE
+
+
+---
+
+
+# LESSONS LEARNED
+
+## [setup] 1. remove the folder from submodule
+
+If all you want is to put your submodule code into the main repository, you just need to remove the submodule and re-add the files into the main repo[stack overflow](https://stackoverflow.com/questions/1759587/how-to-un-submodule-a-git-submodule)
+```
+git rm --cached submodule_path # delete reference to submodule HEAD (no trailing slash)
+git rm .gitmodules             # if you have more than one submodules,
+                               # you need to edit this file instead of deleting!
+rm -rf [-r -fo] submodule_path/.git     # make sure you have backup!!
+git add submodule_path         # will add files instead of commit reference
+git commit -m "remove submodule"
+```
+
+TODO: Terminal Command - check the difference between `rm -rf` vs. `rm -r -fo`
+
+---
