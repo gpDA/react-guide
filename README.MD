@@ -8,6 +8,9 @@
 * Use of portal for displaying Error Modal
 * use of Wrapper (vs. Fragment)
 
+<img width="647" alt="portals-1" src="https://user-images.githubusercontent.com/29666846/208266894-94b824d2-5dca-450d-a285-0d30016f5208.png">
+
+
 
 ---
 
