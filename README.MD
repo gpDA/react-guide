@@ -14,7 +14,7 @@
 ### Contents
 * setTimeout debouncer with useEffect hooks /w cleanup function
 * useReducer is always a good choice if there's state depdns on the other state; when the state becomes complex because it guarantee the right state update in terms of state batch update
-* ForwardRef to foucs custom component <Input />
+* use useImperativeHandle & ForwardRef to foucs custom component <Input />
 
 
 ---
