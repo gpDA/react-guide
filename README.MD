@@ -1,6 +1,12 @@
 # OVERVIEW
 ## the-concept-of-composition
-### TITLE
+### Contents
+* Composistion using children prop; Card component has a common style and wrap Card around other components to render the common style 
+
+## portals
+### Contents
+* Use of portal for displaying Error Modal
+* use of Wrapper (vs. Fragment)
 
 
 ---
