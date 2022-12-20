@@ -23,6 +23,9 @@
 ### LESSONS LEARNED
 * Error Boundary needs to be in Class Components
 
+![image](https://user-images.githubusercontent.com/29666846/208586212-06822000-7e39-4c4a-acb2-abfff6b452af.png)
+
+
 ---
 
 
