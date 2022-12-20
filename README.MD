@@ -10,6 +10,13 @@
 
 <img width="647" alt="portals-1" src="https://user-images.githubusercontent.com/29666846/208266894-94b824d2-5dca-450d-a285-0d30016f5208.png">
 
+## ForwardRef ReactContext UseReducer UseState UseEffectCleanUp
+
+### LESSONS LEARNED
+* setTimeout debouncer with useEffect hook w/ cleanup function
+* Use of Forward Ref for <Input /> using useImperativeHandle
+* useContext for global "auth" state
+* useReducer for complex state dependency
 
 
 ---
