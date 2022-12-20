@@ -1,39 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36820f53-3723-4bed-804f-912b5dd358db" name="Changes" comment="update READMEs">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forwardref-reactcontext-usereducer-usestate-useeffectcleanup/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forwardref-reactcontext-usereducer-usestate-useeffectcleanup/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forwardref-reactcontext-usereducer-usestate-useeffectcleanup/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forwardref-reactcontext-usereducer-usestate-useeffectcleanup/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forwardref-reactcontext-usereducer-usestate-useeffectcleanup/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forwardref-reactcontext-usereducer-usestate-useeffectcleanup/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forwardref-reactcontext-usereducer-usestate-useeffectcleanup/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forwardref-reactcontext-usereducer-usestate-useeffectcleanup/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forwardref-reactcontext-usereducer-usestate-useeffectcleanup/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forwardref-reactcontext-usereducer-usestate-useeffectcleanup/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forwardref-reactcontext-usereducer-usestate-useeffectcleanup/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forwardref-reactcontext-usereducer-usestate-useeffectcleanup/src/components/Home/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forwardref-reactcontext-usereducer-usestate-useeffectcleanup/src/components/Home/Home.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forwardref-reactcontext-usereducer-usestate-useeffectcleanup/src/components/Login/Login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forwardref-reactcontext-usereducer-usestate-useeffectcleanup/src/components/Login/Login.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forwardref-reactcontext-usereducer-usestate-useeffectcleanup/src/components/MainHeader/MainHeader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forwardref-reactcontext-usereducer-usestate-useeffectcleanup/src/components/MainHeader/MainHeader.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forwardref-reactcontext-usereducer-usestate-useeffectcleanup/src/components/MainHeader/Navigation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forwardref-reactcontext-usereducer-usestate-useeffectcleanup/src/components/MainHeader/Navigation.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forwardref-reactcontext-usereducer-usestate-useeffectcleanup/src/components/UI/Button/Button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forwardref-reactcontext-usereducer-usestate-useeffectcleanup/src/components/UI/Button/Button.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forwardref-reactcontext-usereducer-usestate-useeffectcleanup/src/components/UI/Card/Card.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forwardref-reactcontext-usereducer-usestate-useeffectcleanup/src/components/UI/Card/Card.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forwardref-reactcontext-usereducer-usestate-useeffectcleanup/src/components/UI/Input/Input.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forwardref-reactcontext-usereducer-usestate-useeffectcleanup/src/components/UI/Input/Input.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forwardref-reactcontext-usereducer-usestate-useeffectcleanup/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forwardref-reactcontext-usereducer-usestate-useeffectcleanup/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forwardref-reactcontext-usereducer-usestate-useeffectcleanup/src/reportWebVitals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forwardref-reactcontext-usereducer-usestate-useeffectcleanup/src/setupTests.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forwardref-reactcontext-usereducer-usestate-useeffectcleanup/src/store/auth-context.js" afterDir="false" />
+    <list default="true" id="36820f53-3723-4bed-804f-912b5dd358db" name="Changes" comment="ForwardRef ReactContext UseReducer UseState UseEffectCleanUp">
+      <change afterPath="$PROJECT_DIR$/error-boundary/src/components/ErrorBoundary.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/error-boundary/src/components/User.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/error-boundary/src/components/User.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/error-boundary/src/components/UserFinder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/error-boundary/src/components/UserFinder.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/error-boundary/src/components/Users.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/error-boundary/src/components/Users.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/error-boundary/src/store/users-context.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +59,7 @@
       <workItem from="1670965877434" duration="898000" />
       <workItem from="1671117401506" duration="597000" />
       <workItem from="1671310185787" duration="4085000" />
-      <workItem from="1671503170720" duration="3444000" />
+      <workItem from="1671503170720" duration="8404000" />
     </task>
     <task id="LOCAL-00001" summary="composition app update">
       <created>1670966170788</created>
@@ -105,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671313189821</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ForwardRef ReactContext UseReducer UseState UseEffectCleanUp">
+      <created>1671506651622</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671506651622</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +110,7 @@
     <MESSAGE value="composition app update" />
     <MESSAGE value="Portal update&#10;README update" />
     <MESSAGE value="update READMEs" />
-    <option name="LAST_COMMIT_MESSAGE" value="update READMEs" />
+    <MESSAGE value="ForwardRef ReactContext UseReducer UseState UseEffectCleanUp" />
+    <option name="LAST_COMMIT_MESSAGE" value="ForwardRef ReactContext UseReducer UseState UseEffectCleanUp" />
   </component>
 </project>

@@ -18,6 +18,10 @@
 * useContext for global "auth" state
 * useReducer for complex state dependency
 
+## Error Boundary
+
+### LESSONS LEARNED
+* Error Boundary needs to be in Class Components
 
 ---
 
