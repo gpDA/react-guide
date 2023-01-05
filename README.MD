@@ -27,7 +27,12 @@
 ## Custom Hook
 
 ### LESSONS LEARNED
-*
+* placeholder
+
+## Form UseReducer
+
+### LESSONS LEARNED
+* various ways to create the form input using useReducer & custom hook
 
 ![image](https://user-images.githubusercontent.com/29666846/208586212-06822000-7e39-4c4a-acb2-abfff6b452af.png)
 
