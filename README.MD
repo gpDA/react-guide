@@ -36,6 +36,13 @@
 
 ![image](https://user-images.githubusercontent.com/29666846/208586212-06822000-7e39-4c4a-acb2-abfff6b452af.png)
 
+## Redux Toolkit
+
+### LESSONS LEARNED
+* reduxToolkit uses immer
+* redux-toolkit includes redux; therefore, it's safe to delete redux library
+* React Context has a bad performance; React context is ready to be used for low frequency unlikely updates (like locale/theme); not ready to be used as a replacement for all Flux-like state propagation
+* Q: what's the use case of mix-match Redux and React Context
 
 ---
 
