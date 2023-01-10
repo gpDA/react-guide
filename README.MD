@@ -44,6 +44,12 @@
 * React Context has a bad performance; React context is ready to be used for low frequency unlikely updates (like locale/theme); not ready to be used as a replacement for all Flux-like state propagation
 * Q: what's the use case of mix-match Redux and React Context
 
+## Redux Thunk
+
+### LESSONS LEARNED
+* side-effects and async tasks can be executed 1) inside the component (e.g., useEffect()) 2) inside the action creators
+* Redux Thunk pattern : dispatch wrap around dispatch
+
 ---
 
 
