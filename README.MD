@@ -50,6 +50,27 @@
 * side-effects and async tasks can be executed 1) inside the component (e.g., useEffect()) 2) inside the action creators
 * Redux Thunk pattern : dispatch wrap around dispatch
 
+## React Router 6.4
+
+### LESSONS LEARNED
+* useHistory vs. useLocation from 'react-router-dom'
+* defer({ posts: await getPosts() }); vs. defer({ posts: getPosts() }); -- /w await no partial loading /wo await partial loading is available
+  * Await & Suspense fallback pattern for return the response
+* new URLSearchParams for destructuring query params
+* wrap around with Layout component with children props
+* createBrowserRouter & createRoutesFromElements
+  * index => the default route
+  * loader => initial load of data
+  * errorElement => fallback
+  * when Form (action url should match with Route) is submitted, action is executed
+  * with element | errorElement & loader | action
+* Outlet works similar to children
+* useNavigation returns the status <idle | loading | submitting>
+  * <NewPostForm submitting={navigation.state === 'submitting'}
+* useActionData helps use of the data sent via action function
+* useLoaderData helps use of the data fetching via loader function
+* useRouteError handls the error-case of loader function
+
 ---
 
 

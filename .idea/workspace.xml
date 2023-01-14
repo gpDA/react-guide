@@ -1,43 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36820f53-3723-4bed-804f-912b5dd358db" name="Changes" comment="Redux Toolkit">
-      <change afterPath="$PROJECT_DIR$/redux-thunk/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redux-thunk/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redux-thunk/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redux-thunk/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redux-thunk/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redux-thunk/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redux-thunk/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redux-thunk/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redux-thunk/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redux-thunk/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redux-thunk/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redux-thunk/src/components/Cart/Cart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redux-thunk/src/components/Cart/Cart.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redux-thunk/src/components/Cart/CartButton.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redux-thunk/src/components/Cart/CartButton.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redux-thunk/src/components/Cart/CartItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redux-thunk/src/components/Cart/CartItem.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redux-thunk/src/components/Layout/Layout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redux-thunk/src/components/Layout/MainHeader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redux-thunk/src/components/Layout/MainHeader.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redux-thunk/src/components/Shop/ProductItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redux-thunk/src/components/Shop/ProductItem.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redux-thunk/src/components/Shop/Products.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redux-thunk/src/components/Shop/Products.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redux-thunk/src/components/UI/Card.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redux-thunk/src/components/UI/Card.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redux-thunk/src/components/UI/Notification.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redux-thunk/src/components/UI/Notification.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redux-thunk/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redux-thunk/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redux-thunk/src/reportWebVitals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redux-thunk/src/setupTests.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redux-thunk/src/store/cart-actions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redux-thunk/src/store/cart-slice.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redux-thunk/src/store/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redux-thunk/src/store/ui-slice.js" afterDir="false" />
+    <list default="true" id="36820f53-3723-4bed-804f-912b5dd358db" name="Changes" comment="Redux Thunk">
+      <change afterPath="$PROJECT_DIR$/react-router6.4/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-router6.4/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-router6.4/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-router6.4/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-router6.4/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-router6.4/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-router6.4/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-router6.4/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-router6.4/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-router6.4/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-router6.4/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-router6.4/src/components/EventForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-router6.4/src/components/EventForm.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-router6.4/src/components/EventItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-router6.4/src/components/EventItem.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-router6.4/src/components/EventsList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-router6.4/src/components/EventsList.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-router6.4/src/components/EventsNavigation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-router6.4/src/components/EventsNavigation.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-router6.4/src/components/MainNavigation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-router6.4/src/components/MainNavigation.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-router6.4/src/components/NewsletterSignup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-router6.4/src/components/NewsletterSignup.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-router6.4/src/components/PageContent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-router6.4/src/components/PageContent.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-router6.4/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-router6.4/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-router6.4/src/pages/EditEvent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-router6.4/src/pages/Error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-router6.4/src/pages/EventDetail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-router6.4/src/pages/Events.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-router6.4/src/pages/EventsRoot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-router6.4/src/pages/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-router6.4/src/pages/NewEvent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-router6.4/src/pages/Newsletter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-router6.4/src/pages/Root.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-router6.4/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-router6.4/src/setupTests.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
     </list>
@@ -92,6 +94,11 @@
       <workItem from="1672897306387" duration="751000" />
       <workItem from="1672952410561" duration="2241000" />
       <workItem from="1673301021955" duration="1365000" />
+      <workItem from="1673500974778" duration="759000" />
+      <workItem from="1673531350711" duration="1729000" />
+      <workItem from="1673557765978" duration="2815000" />
+      <workItem from="1673643565825" duration="1053000" />
+      <workItem from="1673705074833" duration="1630000" />
     </task>
     <task id="LOCAL-00001" summary="composition app update">
       <created>1670966170788</created>
@@ -149,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672953995843</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Redux Thunk">
+      <created>1673319307096</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1673319307096</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,6 +189,7 @@
     <MESSAGE value="Custom Hooks&#10;+ // TODO: FIGURE OUT WHY THIS IS NOT WORKING&#10; for fetchTasks" />
     <MESSAGE value="Form UseReducer" />
     <MESSAGE value="inputStateReducer; return initialInputState by default" />
-    <option name="LAST_COMMIT_MESSAGE" value="inputStateReducer; return initialInputState by default" />
+    <MESSAGE value="Redux Thunk" />
+    <option name="LAST_COMMIT_MESSAGE" value="Redux Thunk" />
   </component>
 </project>
