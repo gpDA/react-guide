@@ -71,6 +71,13 @@
 * useLoaderData helps use of the data fetching via loader function
 * useRouteError handls the error-case of loader function
 
+## React Testing
+
+### LESSONS LEARNED
+* mock for async call
+* test user interaction especially events
+* query vs. get vs. .find
+
 ---
 
 
